@@ -1,0 +1,14 @@
+searchEngineCx=<<Search engine CX here>>
+googleKey=<<Google Key here>>
+openAiKey=<<Open AI Key here>>
+searchURL=https://customsearch.googleapis.com/customsearch/v1
+gptModel=text-davinci-003
+maxTokens=2000
+maxPromptChars=4000
+temperature=0.7
+top_p=0.6
+frequency_penalty=0
+presence_penalty=0.7
+#gptModel=text-curie-001
+#maxTokens=1024
+#maxPromptChars=2000
